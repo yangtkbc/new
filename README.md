@@ -1,5 +1,5 @@
 {
 	"web": "msg.do.am",
 	"IsStop": 0,
-	"SendDelay": 5
+	"SendDelay": 3
 }
